@@ -14,7 +14,7 @@ export class CockpitComponent implements OnInit {
   
   constructor() { }
 
-  //a lifecycle hook
+  //a lifecycle ho ok
   ngOnInit(): void {
   }
 
